@@ -42,6 +42,7 @@ It is a software testing method that consists of small sections of code rigorous
 Automated unit tests also work as documentation by helping to understand how each unit of code works by seeing the results of its interaction with the system.
 
 ## What was the first unit testing framework and for which language was it created?
+En 1994 kent Back creó el entorno de prueba SUnit para el para el lenguaje smalltask, posteriormente en 1997 junto a Erich Gamma crearon JUnit para el lenguaje Java.
 JUnit
 - **Date:** 1997
 - **Creator:** Erich Gamma and Kent Beck
