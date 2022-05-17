@@ -3,7 +3,7 @@
 
 
 You can download the algorithm in this same repository. \
-Repository link: https://github.com/BelkisVasquez0609/Assignment0001_Requirements_Criteria_Cases.git
+Repository link: https://github.com/BelkisVasquez0609/001Assignment_Requirements_Criteria_Cases
 
 ## Requirements
 - **Req-1:** When starting the system, a welcome message should be displayed on the screen. 
